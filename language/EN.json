@@ -13,15 +13,15 @@
                   "yt" :   {
                             "N_SONG"   : "*🧜‍♀️💬ENTER A SONG NAME*\nex : .song faded" ,
                             "NOT_SONG" : "*SONG NOT FOUND‼️*" ,
-                            "S_YT"     : "*🔍SEARCHING ON YOUTUBE...*" ,
+                            "S_YT"     : "*🔍جاري البحت في اليوتيوب...*" ,
                             "N_YT"     : "*🧜‍♀️💬ENTER A TOPIC* \nex : .getyt sri lanka cricket" ,
                             "N_VID"    : "*🧜‍♀️💬ENTER A YOUTUBE VIDEO LINK*\nex : .video https://youtu.be/pyCIKli4YUA" ,
                             "N_FB"     : "*🧜‍♀️💬ENTER A FACEBOOK VIDEO LINK*" , 
-                            "N_MF"     : "*🧜‍♀️💬ENTER A MEDIAFIRE LINK*" , 
-                            "N_TIK"    : "*🧜‍♀️💬ENTER A TIKTOK VIDEO LINK*" ,
-                            "NOT_VID"  : "*VIDEO NOT FOUND‼️*", 
+                            "N_MF"     : "*🧜‍♀️💬ادخل رابط MEDIAFIRE*" , 
+                            "N_TIK"    : "*🧜‍♀️💬ادخل رابط الفيديو تيك توك*" ,
+                            "NOT_VID"  : "*لا يوجد الفيديو مطلوب ‼️*", 
                             "N_IG "    : "🧜‍♀️💬ENTER A INSTAGRAM LINK",
-                            "N_FOUND"  : "*NOT FOUND‼️*"
+                            "N_FOUND"  : "*لا توجد معلومة‼️*"
                           } ,
                 "admin" : {  
                              "UR_NOT_ADMIN": "*You are not admin in this group!*",
@@ -48,8 +48,8 @@
                            },
                
                 "apk"  :  {  
-                              "N_LINK" : "*🧜‍♀️💬 Enter a google playstore app link .*" ,
-                              "ERROR"  : "*🧜‍♀️💬APK Not Found!.*"
+                              "N_LINK" : "*🧜‍♀️💬 ادخل رابط التطبيق من googel playe .*" ,
+                              "ERROR"  : "*🧜‍♀️💬لا يوجد التطبيق المطلوب!.*"
     
                            },
          "filters": {
